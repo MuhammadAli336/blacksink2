@@ -1,7 +1,2 @@
-API
-===
-
-.. autosummary::
-   :toctree: generated
-
-   lumache
+The Nivito kitchen sink is perfect for creating a modern and elegant look in your kitchen. The sleek design and high-quality materials make it a durable and stylish addition to any home. With its large bowl and integrated draining system, the Nivito kitchen sink is ideal for washing dishes, preparing food, and cleaning up. It's easy to install and comes with all the necessary hardware. The Nivito kitchen sink is the perfect choice for anyone looking to add a touch of style and sophistication to their home.
+https://www.nivito.com.au/
